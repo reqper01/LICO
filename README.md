@@ -1,0 +1,2 @@
+# LICO
+A Smart app
